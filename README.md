@@ -4,7 +4,7 @@
 Thanos is a Python script designed to terminate approximately half of the currently active processes on a system. It randomly selects processes to shut down and poofs them from existence!
 
 ## Warning
-**Use with Caution:** This script can significantly affect system stability and should be used in a controlled environment. Running Thanos on a system is not recommended unless for testing or chaos :)
+**Use with Caution:** This script can significantly affect system stability and should be used in a controlled environment. Running Thanos on a system is not recommended unless for testing or chaos purposes. :)
 
 ## Requirements
 - Python 3.x
